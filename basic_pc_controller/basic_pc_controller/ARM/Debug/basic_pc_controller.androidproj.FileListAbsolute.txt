@@ -1,0 +1,3 @@
+C:\Users\inluckie\source\repos\basic_pc_controller\basic_pc_controller\ARM\Debug\basic_pc_controller.androidprojAssemblyReference.cache
+C:\Users\inluckie\source\repos\basic_pc_controller\basic_pc_controller\ARM\Debug\basic_pc_controller.apk.recipe
+C:\Users\inluckie\source\repos\basic_pc_controller\basic_pc_controller\ARM\Debug\basic_pc_controller.apk
