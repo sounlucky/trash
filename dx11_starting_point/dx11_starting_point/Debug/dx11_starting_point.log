@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\inluckie\source\repos\dx11_starting_point\dx11_starting_point\window.hpp(29): warning C4838: conversion from 'size_t' to 'LONG' requires a narrowing conversion
+  c:\users\inluckie\source\repos\dx11_starting_point\dx11_starting_point\main.cpp(13): note: see reference to function template instantiation 'Window::Window<LRESULT(__stdcall *)(HWND,UINT,WPARAM,LPARAM)>(HINSTANCE,int,const wchar_t *,callback_t)' being compiled
+          with
+          [
+              callback_t=LRESULT (__stdcall *)(HWND,UINT,WPARAM,LPARAM)
+          ]
+  dx11_starting_point.vcxproj -> C:\Users\inluckie\source\repos\dx11_starting_point\Debug\dx11_starting_point.exe
