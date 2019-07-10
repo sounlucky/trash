@@ -1,0 +1,11 @@
+C:\Users\inluckie\source\repos\rsa\rsa\bin\Release\netcoreapp2.1\rsa.deps.json
+C:\Users\inluckie\source\repos\rsa\rsa\bin\Release\netcoreapp2.1\rsa.runtimeconfig.json
+C:\Users\inluckie\source\repos\rsa\rsa\bin\Release\netcoreapp2.1\rsa.runtimeconfig.dev.json
+C:\Users\inluckie\source\repos\rsa\rsa\bin\Release\netcoreapp2.1\rsa.dll
+C:\Users\inluckie\source\repos\rsa\rsa\bin\Release\netcoreapp2.1\rsa.pdb
+C:\Users\inluckie\source\repos\rsa\rsa\obj\Release\netcoreapp2.1\rsa.csprojAssemblyReference.cache
+C:\Users\inluckie\source\repos\rsa\rsa\obj\Release\netcoreapp2.1\rsa.csproj.CoreCompileInputs.cache
+C:\Users\inluckie\source\repos\rsa\rsa\obj\Release\netcoreapp2.1\rsa.AssemblyInfoInputs.cache
+C:\Users\inluckie\source\repos\rsa\rsa\obj\Release\netcoreapp2.1\rsa.AssemblyInfo.cs
+C:\Users\inluckie\source\repos\rsa\rsa\obj\Release\netcoreapp2.1\rsa.dll
+C:\Users\inluckie\source\repos\rsa\rsa\obj\Release\netcoreapp2.1\rsa.pdb
