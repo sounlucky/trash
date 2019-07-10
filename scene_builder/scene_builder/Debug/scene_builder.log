@@ -1,0 +1,2 @@
+﻿Renderer.obj : error LNK2019: unresolved external symbol _D3D11CreateDeviceAndSwapChain@48 referenced in function "public: bool __thiscall Renderer::Init(struct HWND__ * &)" (?Init@Renderer@@QAE_NAAPAUHWND__@@@Z)
+C:\Users\inluckie\source\repos\scene_builder\Debug\scene_builder.exe : fatal error LNK1120: 1 unresolved externals
